@@ -1,9 +1,9 @@
-### Hi there 👋 
+### Hi there 👋 Welcome to my Github.
 
 <!--
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Full Stack Development and Deep Learning projects.
 - 🌱 I’m currently learning Ds Algo and Software development.
