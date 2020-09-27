@@ -9,9 +9,7 @@
 - 🌱 I do problem solving (DS Algo) on the regular basis.
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimurrab&layout=compact&hide=html&theme=gruvbox"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
 
 
 - 📫 How to reach me: [samurrab@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHTdjdxtfckpXpLJhvKWTVwvTdqwXJXjnVFPrXphJkczsctlJtKzClwldPfgMRpRDdFMP) or [Twitter](https://twitter.com/sarimurrab) or [LinkedIn](https://in.linkedin.com/in/chaudhary-sarimurrab) .
