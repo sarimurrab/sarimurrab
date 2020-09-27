@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development and Deep Learning projects.
-- 🌱 I do problem solving (DS Algo) on the regular basis.
+- 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 
 <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
