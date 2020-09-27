@@ -1,5 +1,3 @@
-### Hi there 👋 Welcome to my Github.
-
 <!--
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
