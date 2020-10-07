@@ -2,7 +2,7 @@
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ⚡  Open for Full time role.
+- ⚡  Open for Full time role and interships.
 - 🔭 I’m currently working on Full Stack Development and Deep Learning projects.
 - 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
