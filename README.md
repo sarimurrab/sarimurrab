@@ -2,7 +2,7 @@
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - ⚡  Open for Full time role and interships.
-- 🔭 I’m currently working on Full Stack Development and Deep Learning projects.
+- 🔭 I’m currently working on Deep Learning projects and learning Full Stack Development.
 - 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 - ⚡ Find me here [Most Active Github Users In India](https://commits.top/india.html)
