@@ -8,7 +8,7 @@
 - ⚡ Find me here [Most Active Github Users In India](https://commits.top/india.html)<br>
 <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp;<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
+<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img  alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a> &emsp;
   <a href="https://twitter.com/sarimurrab">
