@@ -10,6 +10,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
 
 
-- 📫 How to reach me: [sarimurrab2@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHTdjdxtfckpXpLJhvKWTVwvTdqwXJXjnVFPrXphJkczsctlJtKzClwldPfgMRpRDdFMP) or [samurrab@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHTdjdxtfckpXpLJhvKWTVwvTdqwXJXjnVFPrXphJkczsctlJtKzClwldPfgMRpRDdFMP) or [Twitter](https://twitter.com/sarimurrab) or [LinkedIn](https://in.linkedin.com/in/chaudhary-sarimurrab) .
-
-
+- <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
+    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/sarimurrab">
+    <img align="left" alt="Sumanjay Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/sarimchaudhary5/">
+    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sarimurrab2@gmail.com">
+    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+  </a>
