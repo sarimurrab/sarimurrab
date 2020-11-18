@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
 
 
-- <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
+<p> <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sarimurrab">
@@ -22,3 +22,4 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sarimurrab2@gmail.com">
     <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
   </a>
+    <p>
