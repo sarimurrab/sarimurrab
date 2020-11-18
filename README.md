@@ -6,8 +6,6 @@
 - 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 - ⚡ Find me here [Most Active Github Users In India](https://commits.top/india.html)
-<br>
-<br>
 - <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
