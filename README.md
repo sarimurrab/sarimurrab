@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
 
 
-- <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sarimurrab">
