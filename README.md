@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 - ⚡ Find me here [Most Active Github Users In India](https://commits.top/india.html)<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>  -->
 
 &emsp;&nbsp;<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img   width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
