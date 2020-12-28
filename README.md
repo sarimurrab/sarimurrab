@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Deep Learning projects and learning Full Stack Development.
 - 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
-- ⚡ ctrl+F me here [Most Active Github Users In India](https://commits.top/india.html)<br>
+- ⚡ <b>CTRL+F<b> me here [Most Active Github Users In India](https://commits.top/india.html)<br>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>  -->
 
