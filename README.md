@@ -1,8 +1,8 @@
 <!--
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- ⚡  Open for Full time role and interships.
-- 🔭 I’m currently working on Deep Learning projects and learning Full Stack Development.
+- ⚡  Open for <b>Full time</b> role and <b>Interships</b>.
+- 🔭 I’m currently working on <b>Deep Learning</b> projects and also <b>Full Stack</b> Development.
 - 🌱 I do problem solving (DS Algo).
 - 👯 I’m looking to collaborate on ML projects and Full Stack Projects.
 - ⚡ <img   width="15px" height="15px" src="https://cdn0.iconfinder.com/data/icons/universal-set-2/30/universal-set-2045-512.png" /><img   width="12px" height="12px" src="https://i.ibb.co/G7vp1zG/plus.png" /><img   width="16px" height="16px" src="https://i.ibb.co/34wgm4Q/download.jpg" /> me here <b>[Most Active Github Users In India](https://commits.top/india.html)</b><br>
