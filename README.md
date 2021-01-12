@@ -4,7 +4,7 @@
 - ⚡  Open for <b>Full time</b> role and <b>Interships</b>.
 - 🔭 I’m currently working on <b>Deep Learning</b> projects and also <b>Full Stack</b> Development.
 - 🌱 I do problem solving (DS Algo).
-- ⚡ <img   width="15px" height="15px" src="https://cdn0.iconfinder.com/data/icons/universal-set-2/30/universal-set-2045-512.png" /><img   width="12px" height="12px" src="https://i.ibb.co/G7vp1zG/plus.png" /><img   width="14px" height="14px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/55/regional-indicator-symbol-letter-f_1f1eb.png" /> me here <b>[Most Active Github Users In India](https://commits.top/india.html)</b><br>
+- ⚡ <b>Ctrl + F</b> me here <b>[Most Active Github Users In India](https://commits.top/india.html)</b><br>
 - 👯 Contact me here: 
 &nbsp;<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,12 +20,19 @@
   </a>
 
 
+<table>
+    <th>My Coding Activity for Last 30 days</th>
+    <th>Language I used in Last 30 days</th>
 
+        
+  <tr>
+    <td><img src="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" width=400 height=400></td>
+    <td><img src="https://wakatime.com/share/@sarimurrab/2d07a191-5545-4a55-81e5-4227dac703d7.png" width=550 height=400></td>
+  </tr>
+ </table>
+ 
+ 
 
-
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sarimurrab&layout=compact&show_icons=true&theme=Gradient"/>  -->
 
 
 
