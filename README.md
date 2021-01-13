@@ -19,17 +19,17 @@
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
   </a>
 
-<!--
+
 <hr />
 <table>
-    <th>My Coding Activity for Last 30 days</th>
-    <th>Languages I used in Last 30 days</th>
+    <th><b>My Coding Activity for Last 30 days</b></th>
+    <th><b>Languages I used in Last 30 days</b></th>
 <tr>
-    <td><img src="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" width=400 height=370></td>
-    <td><img src="https://wakatime.com/share/@sarimurrab/2d07a191-5545-4a55-81e5-4227dac703d7.png" width=550 height=370></td>
+    <td><img src="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" width=400 height=390></td>
+    <td><img src="https://wakatime.com/share/@sarimurrab/2d07a191-5545-4a55-81e5-4227dac703d7.png" width=550 height=390></td>
   </tr>
  </table>
- -->
+
 
 
 
