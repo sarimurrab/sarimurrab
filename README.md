@@ -25,8 +25,8 @@
     <th><b>My Coding Activity for Last 30 days</b></th>
     <th><b>Languages I used in Last 30 days</b></th>
 <tr>
-    <td><img src="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" width=400 height=380></td>
-    <td><img src="https://wakatime.com/share/@sarimurrab/2d07a191-5545-4a55-81e5-4227dac703d7.png" width=550 height=380></td>
+    <td><img src="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" width=400 height=370></td>
+    <td><img src="https://wakatime.com/share/@sarimurrab/2d07a191-5545-4a55-81e5-4227dac703d7.png" width=550 height=370></td>
   </tr>
  </table>
 
