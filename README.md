@@ -19,7 +19,7 @@
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
   </a>
 
-
+<!--
 <hr />
 <table>
     <th><b>My Coding Activity for Last 30 days</b></th>
