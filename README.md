@@ -19,7 +19,7 @@
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
   </a>
 
-<!-- -->
+<!--
 <hr />
 <table>
     <th><a href="https://wakatime.com/share/@sarimurrab/a3a0a9ce-6859-4630-8b55-850042185462.svg" target="_blank">My Coding Activity for Last 30 days</a></th>
