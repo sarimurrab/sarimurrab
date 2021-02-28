@@ -1,10 +1,7 @@
 <!--
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- ⚡  Open for <b>Full time</b> role and <b>Interships</b>.
-- 🔭 I’m currently working on <b>Deep Learning</b> projects and also <b>Full Stack</b> Development.
-- 🌱 I do problem solving (DS Algo).
-- ⚡ <b>Ctrl + F</b> me here <b>[Most Active Github Users In India](https://commits.top/india.html)</b><br>
+- 🔭 <b>Deep Learning</b>, <b>Full Stack Development</b>, <b>Data Structure and Algorithms</b>
 - 👯 Contact me here: 
 &nbsp;<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
