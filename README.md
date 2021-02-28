@@ -9,9 +9,6 @@
   <a href="https://twitter.com/sarimurrab">
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a> &emsp;
-  <a href="https://www.instagram.com/sarimchaudhary5/">
-    <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a> &emsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sarimurrab2@gmail.com">
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
   </a>
