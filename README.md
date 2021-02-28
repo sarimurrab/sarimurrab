@@ -2,7 +2,7 @@
 **sarimurrab/sarimurrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 <b>Deep Learning</b>, <b>Full Stack Development</b>, <b>Data Structure and Algorithms</b>
-- 👯 Contact me here: 
+- 👯  
 &nbsp;<a href="https://www.linkedin.com/in/chaudhary-sarimurrab/">
     <img   width="16px" height="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a> &emsp;
